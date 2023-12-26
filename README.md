@@ -1,2 +1,2 @@
 # SP500-Stock-Market-Predictor
-ML Project where I optimize my model for predicting the SP500.
+ML Project for predicting the SP500 using a Random Forest Classifier model.
